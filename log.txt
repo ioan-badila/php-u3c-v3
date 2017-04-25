@@ -1,0 +1,1 @@
+error: 500 [GET] http://localhost:8082/: Class 'App\Action\Exception' not founderror: 500 [GET] http://localhost:8082/: Error Processing Request
